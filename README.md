@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:rohanbp2003@gmail.com"><img src="https://img.shields.io/badge/Email-rohanbp2003@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/ https://www.linkedin.com/in/rohan-bp-544442289-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/linkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="tel:+919008453199"><img src="https://img.shields.io/badge/Phone-Call Now-25D366?style=flat-square&logo=whatsapp"></a>
 </p>
 
