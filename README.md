@@ -85,16 +85,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanbp2003&show_icons=true&theme=react&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" alt="Rohan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanbp2003&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbp2003&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
